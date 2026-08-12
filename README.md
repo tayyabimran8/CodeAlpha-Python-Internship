@@ -1,4 +1,4 @@
-# CodeAlpha-Python-Internship
+# CodeAlpha-Python-Tasks
 Python tasks submitted for the CodeAlpha virtual internship.
 
 This repository contains the tasks completed as part of the virtual Python programming internship at CodeAlpha. The projects focus on fundamental programming concepts including control flow, data structures, and file handling.
